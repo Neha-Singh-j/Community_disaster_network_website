@@ -53,4 +53,10 @@ Working prototype demonstrates:
 
 ---
 ![WhatsApp Image 2025-12-04 at 12 17 11_69ad24b7](https://github.com/user-attachments/assets/7edeb91b-9f25-495a-8939-938797fabded)
+ScreenShot of Website: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91b62273-ae75-49c5-a79c-114bae07b2e0" />
+ScreenShot of Main Dashboard: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0cf1655-3634-4a3d-b7e3-fe6a265e5ab2" />
+ScreenShot of Auth
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b491eb7-2c0c-473e-9cc9-7ee3a67bedcd" />
 
